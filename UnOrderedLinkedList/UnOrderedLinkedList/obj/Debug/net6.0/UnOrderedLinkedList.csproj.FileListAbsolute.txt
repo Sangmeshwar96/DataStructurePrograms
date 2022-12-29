@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\bin\Debug\net6.0\UnOrderedLinkedList.exe
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\bin\Debug\net6.0\UnOrderedLinkedList.deps.json
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\bin\Debug\net6.0\UnOrderedLinkedList.runtimeconfig.json
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\bin\Debug\net6.0\UnOrderedLinkedList.dll
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\bin\Debug\net6.0\UnOrderedLinkedList.pdb
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.dll
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\refint\UnOrderedLinkedList.dll
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.pdb
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\UnOrderedLinkedList.genruntimeconfig.cache
+C:\Users\hp\source\repos\UnOrderedLinkedList\UnOrderedLinkedList\obj\Debug\net6.0\ref\UnOrderedLinkedList.dll
