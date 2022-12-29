@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.AssemblyInfo.cs
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\bin\Debug\net6.0\OrderedLinkedList.exe
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\bin\Debug\net6.0\OrderedLinkedList.deps.json
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\bin\Debug\net6.0\OrderedLinkedList.runtimeconfig.json
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\bin\Debug\net6.0\OrderedLinkedList.dll
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\bin\Debug\net6.0\OrderedLinkedList.pdb
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.dll
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\refint\OrderedLinkedList.dll
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.pdb
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\OrderedLinkedList.genruntimeconfig.cache
+C:\Users\hp\source\repos\OrderedLinkedList\OrderedLinkedList\obj\Debug\net6.0\ref\OrderedLinkedList.dll
