@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\bin\Debug\net6.0\DataStructurePrograms.exe
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\bin\Debug\net6.0\DataStructurePrograms.deps.json
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\bin\Debug\net6.0\DataStructurePrograms.runtimeconfig.json
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\bin\Debug\net6.0\DataStructurePrograms.dll
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\bin\Debug\net6.0\DataStructurePrograms.pdb
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.AssemblyInfo.cs
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.dll
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\refint\DataStructurePrograms.dll
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.pdb
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\DataStructurePrograms.genruntimeconfig.cache
+C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\obj\Debug\net6.0\ref\DataStructurePrograms.dll
