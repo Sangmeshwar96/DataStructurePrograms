@@ -42,7 +42,7 @@ namespace DataStructurePrograms
             //write contents from linked list to file
             string resultText = ReturnString();
             File.WriteAllText(@"C:\Users\hp\source\repos\DataStructurePrograms\DataStructurePrograms\word.txt", resultText);
-            Console.WriteLine("\n\nFile Updated Successfully!!!!!! ");
+            Console.WriteLine("\nFile Updated Successfully!!!!!! ");
         }
         /// This Method is For Adding Elements Into LinkedList
         public void Insert(T data)
