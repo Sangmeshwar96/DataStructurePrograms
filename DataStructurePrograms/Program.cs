@@ -12,7 +12,8 @@ namespace DataStructurePrograms
                 Console.WriteLine("\nWelcome To DataStructure Programs\n" +
                     "1. UnOrderedList\n" +
                     "2. OrderedList\n" +
-                    "3. End");
+                    "3. Simple Balanced Parentheses\n" +
+                    "4. End");
                 Console.Write("Please Select One Option: ");
                 int option = Convert.ToInt32(Console.ReadLine());
 
@@ -27,10 +28,14 @@ namespace DataStructurePrograms
                         orderedList.OrderedListOperation();
                         break;
                     case 3:
+                        BalancedParentheses<string> balancedParentheses = new BalancedParentheses<string>();
+                        balancedParentheses.CheckParentheses();
+                        break;
+                    case 4:
                         Console.WriteLine("\nThank you");
                         break;
                 }
-                if (option == 3)
+                if (option == 4)
                     break;
             }
 
